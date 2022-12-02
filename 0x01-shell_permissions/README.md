@@ -3,3 +3,4 @@
 3. Print the group the current user is part of
 4.Change the owner of a file
 5. Create and empty file
+6. Add executive permission to the owner of a file
