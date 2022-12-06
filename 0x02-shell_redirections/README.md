@@ -13,3 +13,4 @@
 15. 14-findthatword displays lines in a file that matches a pattern
 16. 15-countthatword count the number of lines that matches a pattern
 17. 16-whatsnext prints out 3 lines after a pattern match
+18. 17-hidethisword prints lines that does not match the pattern
