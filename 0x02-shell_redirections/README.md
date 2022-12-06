@@ -7,3 +7,5 @@
 7. 6-third_line displays the third line of the iacta file
 9. 8-cwd_state saves stdout in a file
 10. 9-duplicate_last_line duplicates the last line of a file
+11. 10-no_more_js deletes all files with .js extension
+12. 11-directories counts the directory and subdirectories
