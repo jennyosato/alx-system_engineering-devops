@@ -9,3 +9,4 @@
 10. 9-duplicate_last_line duplicates the last line of a file
 11. 10-no_more_js deletes all files with .js extension
 12. 11-directories counts the directory and subdirectories
+13. 12-newest_files sorts files in the current directory from newest to oldest
