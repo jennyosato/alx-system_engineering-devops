@@ -16,3 +16,4 @@
 18. 17-hidethisword prints lines that does not match the pattern
 19. 18-letteronly display all lines of file starting with a letter
 20. Replace all characters A and c from input to Z and e respectively
+21. 20-hiago Creates a script that removes all letters c and C from input
